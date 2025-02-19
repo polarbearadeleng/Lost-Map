@@ -1,4 +1,4 @@
-##### Lost-Map
+##### Lost Map
 
 ##### The first line of input will contain the integer n between 2 and 2500, the number of villages in this region. The next n lines will contain n integers each. The jth integer of the ith line is the distance from village i to village j. All distances are greater than zero unless i = j, less than 10^7, and it is guaranteed that the distance from village i to village j is the same as the distance from village j to village i.
 
